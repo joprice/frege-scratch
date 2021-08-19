@@ -23,6 +23,7 @@ plugins {
     id "de.undercouch.download" version "4.1.1"
 }
 
+mainClassName="App"
 
 ext {
     DEFAULT_JAVA_TARGET = "11"

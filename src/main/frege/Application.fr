@@ -1,0 +1,3 @@
+module App where
+
+main = putStrLn "test"
